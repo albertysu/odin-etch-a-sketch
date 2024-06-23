@@ -1,0 +1,30 @@
+.etch-square {
+    flex: 1;
+}
+
+.etch-row {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+#container {
+    display: flex;
+    height: 600px;
+    width: 600px;
+    border: 1px solid black;
+    margin: auto
+}
+
+body {
+    margin: auto;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+button {
+    margin-bottom: 1000;
+}
